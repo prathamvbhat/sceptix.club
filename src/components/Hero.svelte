@@ -31,7 +31,7 @@
     </div>
     <div class="h-screen w-full overflow-hidden absolute z-10
     bg-stone-950 text-stone-50" id="right-box">
-        <div class="w-screen h-screen flex flex-col items-center justify-center">
+        <div class="w-full h-screen flex flex-col items-center justify-center">
             <h1 class="font-bold text-7xl my-6">
                 The <span class="code bg-clip-text text-transparent bg-gradient-to-r from-green-400 to-sky-400">
                     freedom</span> club
